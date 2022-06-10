@@ -4,7 +4,7 @@
 
 Try it [here!](https://github.com/graciicodes/odin-recipes)
 
-![alt text] (https://github.com/graciicodes/odin-recipes/blob/master/images/kara-eads-AemWnTSPxoE-unsplash.jpeg)
+![alt text](https://github.com/graciicodes/odin-recipes/blob/master/images/kara-eads-AemWnTSPxoE-unsplash.jpeg)
 
 ## Summary
 

@@ -8,8 +8,7 @@ Try it [here!](https://graciicodes.github.io/odin-recipes/)
 
 ## Summary
 
-The website will consist of a main index page which will have links to a few recipes.
-This is the first of five assigned projects on The Odin Project Foundations course! In this assignment I learned how to create HTML boilerplate, created directory from the command terminal and vs code. In this basic HTML assignment, I created paragraphs, links, images and unordered lists for my recipes. 
+This is the first of five assigned projects on The Odin Project Foundations course! Created this website and it consists of the main index page having links to a few recipes. In this assignment, I learned how to create an HTML boilerplate, created a directory from the command terminal, and vs code. I also learned how to create paragraphs, links, images, and unordered lists for my recipes.
 
 ## Author
 

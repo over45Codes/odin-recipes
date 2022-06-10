@@ -1,4 +1,4 @@
-# HTML odin-recipes ⭐️
+# HTML Odin-Project-Recipes ⭐️
 
 - Basic recipe website built-in HTML.
 

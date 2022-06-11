@@ -2,7 +2,8 @@
 
 - Basic recipe website built-in HTML.
 
-Try it [here!](https://graciicodes.github.io/odin-recipes/)
+Try it [here!](https://www.graciicodes/odin-recipes.io)
+[I'm an inline-style link](https://graciicodes.github.io/odin-recipes/)
 
 ![alt text](https://github.com/graciicodes/odin-recipes/blob/master/images/kara-eads-AemWnTSPxoE-unsplash.jpeg)
 

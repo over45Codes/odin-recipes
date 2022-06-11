@@ -1,6 +1,6 @@
 # HTML Odin-Project-Recipes ⭐️ 
 
-* Basic recipe website built-in HTML *
+*Basic recipe website built-in HTML*
 
 Try it [here!](https://graciicodes.github.io/odin-recipes/)
 
